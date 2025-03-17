@@ -1,6 +1,6 @@
 # CookMate_Project
 
-## Description
+## Description taaaaaaaaaaaaaaaaaaa
 Ce projet vise à aider les utilisateurs à mieux gérer leur alimentation et celle de leurs animaux en proposant un suivi des stocks, des recommandations de recettes et une liste de courses optimisée.
 
 ## Fonctionnalités principales
@@ -73,4 +73,3 @@ Les contributions sont les bienvenues ! Merci de suivre les règles de contribut
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
