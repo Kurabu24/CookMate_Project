@@ -1,6 +1,6 @@
 # CookMate_Project
 
-## Description taaaaaaaaaaaaaaaaaaa
+## Description
 Ce projet vise à aider les utilisateurs à mieux gérer leur alimentation et celle de leurs animaux en proposant un suivi des stocks, des recommandations de recettes et une liste de courses optimisée.
 
 ## Fonctionnalités principales
