@@ -7,7 +7,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.DocumentSnapshot;
 
-public class HomeActivity extends AppCompatActivity {
+public class TodayActivity extends AppCompatActivity {
     private TextView welcomeMessage;
     private FirebaseAuth mAuth;
     private FirebaseFirestore db;
@@ -15,7 +15,7 @@ public class HomeActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home);
+        setContentView(R.layout.activity_today);
 
         // Initialisation de Firebase Auth et Firestore
         mAuth = FirebaseAuth.getInstance();

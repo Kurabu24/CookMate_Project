@@ -22,7 +22,7 @@
         <activity android:name=".SignUpActivity" />
 
         <!-- Activité d'accueil -->
-        <activity android:name=".HomeActivity" />
+        <activity android:name=".TodayActivity" />
 
         <!-- Activité pour les invités -->
         <activity android:name=".GuestActivity" />

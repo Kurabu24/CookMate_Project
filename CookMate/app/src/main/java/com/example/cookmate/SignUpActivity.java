@@ -73,7 +73,7 @@ public class SignUpActivity extends AppCompatActivity {
                 .set(user)
                 .addOnSuccessListener(aVoid -> {
                     Toast.makeText(this, "Inscription réussie !", Toast.LENGTH_SHORT).show();
-                    Intent intent = new Intent(SignUpActivity.this, HomeActivity.class);
+                    Intent intent = new Intent(SignUpActivity.this, TodayActivity.class);
                     intent.putExtra("username", username);  // Transmettre le pseudo à HomeActivity
                     startActivity(intent);
                     finish(); // Ferme l'activité d'inscription

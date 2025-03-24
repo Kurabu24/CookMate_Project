@@ -55,7 +55,7 @@ public class LoginActivity extends AppCompatActivity {
                     if (task.isSuccessful()) {
                         // Connexion réussie
                         Toast.makeText(this, "Login successful!", Toast.LENGTH_SHORT).show();
-                        Intent intent = new Intent(LoginActivity.this, HomeActivity.class);
+                        Intent intent = new Intent(LoginActivity.this, TodayActivity.class);
                         startActivity(intent);
                         finish(); // Ferme l'activité de connexion
                     } else {
